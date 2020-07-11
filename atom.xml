@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://differriver.club</id>
+    <id>https://differriver.github.io</id>
     <title>河而不同</title>
-    <updated>2020-07-11T15:39:36.005Z</updated>
+    <updated>2020-07-11T15:46:45.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://differriver.club"/>
-    <link rel="self" href="https://differriver.club/atom.xml"/>
+    <link rel="alternate" href="https://differriver.github.io"/>
+    <link rel="self" href="https://differriver.github.io/atom.xml"/>
     <subtitle>河而不同是由两个塞纳河粉丝发起，不定期邀请河粉作为嘉宾的圆桌节目。从偶像话题出发，但不拘于粉丝视角；旨在创造平和的讨论空间，但不惧于尖锐的观点碰撞。别被“河粉”这个身份标签劝退了，河粉千姿百态，正如这条河包罗万象。</subtitle>
-    <logo>https://differriver.club/images/avatar.png</logo>
-    <icon>https://differriver.club/favicon.ico</icon>
+    <logo>https://differriver.github.io/images/avatar.png</logo>
+    <icon>https://differriver.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 河而不同</rights>
     <entry>
         <title type="html"><![CDATA[Test]]></title>
-        <id>https://differriver.club/post/test/</id>
-        <link href="https://differriver.club/post/test/">
+        <id>https://differriver.github.io/post/test/</id>
+        <link href="https://differriver.github.io/post/test/">
         </link>
         <updated>2020-07-11T15:35:08.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://differriver.club/post/hello-gridea/</id>
-        <link href="https://differriver.club/post/hello-gridea/">
+        <id>https://differriver.github.io/post/hello-gridea/</id>
+        <link href="https://differriver.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
