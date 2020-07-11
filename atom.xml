@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://differriver.github.io</id>
     <title>河而不同</title>
-    <updated>2020-07-11T16:01:47.948Z</updated>
+    <updated>2020-07-11T16:21:13.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://differriver.github.io"/>
     <link rel="self" href="https://differriver.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2020-07-11T15:35:08.000Z</updated>
         <content type="html"><![CDATA[<p>test</p>
-]]></content>
+<iframe src="https://anchor.fm/d-river/embed/episodes/Test-Episode-egjq7e" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
