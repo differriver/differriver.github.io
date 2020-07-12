@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://differriver.github.io</id>
     <title>河而不同</title>
-    <updated>2020-07-11T17:27:14.547Z</updated>
+    <updated>2020-07-12T04:47:56.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://differriver.github.io"/>
     <link rel="self" href="https://differriver.github.io/atom.xml"/>
@@ -11,13 +11,22 @@
     <icon>https://differriver.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 河而不同</rights>
     <entry>
-        <title type="html"><![CDATA[Test]]></title>
-        <id>https://differriver.github.io/post/test/</id>
-        <link href="https://differriver.github.io/post/test/">
+        <title type="html"><![CDATA[本条会测试插入RSS源]]></title>
+        <id>https://differriver.github.io/post/ben-tiao-hui-ce-shi-cha-ru-rss-yuan/</id>
+        <link href="https://differriver.github.io/post/ben-tiao-hui-ce-shi-cha-ru-rss-yuan/">
         </link>
-        <updated>2020-07-11T15:35:08.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
-<iframe src="https://anchor.fm/d-river/embed/episodes/Test-Episode-egjq7e" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>]]></content>
+        <updated>2020-07-12T04:45:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>本条会插入RSS源供后期podcast订阅准备</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>本条会插入RSS源供后期podcast订阅准备</p>
+<!-- more -->
+<p>#标题1<br>
+##标题2<br>
+###标题3<br>
+插入源：<br>
+https://player.acast.com/5f0a116d5747fe78aeef4d98?theme=default&amp;cover=1&amp;latest=1</p>
+<p>rss：https://feeds.acast.com/public/shows/5f0a116d5747fe78aeef4d98</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
